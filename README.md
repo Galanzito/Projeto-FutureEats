@@ -47,7 +47,7 @@ git clone https://github.com/Galanzito/Projeto-FutureEats.git
 ```
 Navegue para dentro da raiz do projeto
 ```
-cd
+cd Projeto-FutureEats
 ```
 Instale as dependências
 ```
