@@ -14,10 +14,12 @@ Desenvolvimento de aplicações completas, incluindo frontend Web com React e ba
   </a>
 </p>
 <br>
+
 ### LINGUAGENS
 * HTML
 * CSS
 * JavaScript
+
 ### TECNOLOGIAS/FERRAMENTAS
 * Terminal
 * Git
