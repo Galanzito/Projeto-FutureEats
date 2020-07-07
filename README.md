@@ -58,6 +58,7 @@ Execute a aplicação
 npm start
 ```
 Você poderá acessar a aplicação em [localhost:3000](http:localhost:3000)
+
 ### RESULTADO FINAL
-[Site do projeto]https://future-eatsguilherme.web.app)
+[Site do projeto].(https://future-eatsguilherme.web.app)
 
