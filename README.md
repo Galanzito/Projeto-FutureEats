@@ -1,4 +1,4 @@
-> Status do Projeto: Concluido :heavy_check_mark:
+> Status do Projeto: Concluido :heavy_check_mark: - Versão Mobile
 
 **Canais de comunicação**:
 - [Linkedin](www.linkedin.com/in/guilherme-galan)
