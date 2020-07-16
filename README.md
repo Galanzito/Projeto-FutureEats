@@ -103,7 +103,7 @@ Você poderá acessar a aplicação em [localhost:3000](http:localhost:3000)
 
 **Projeto inicialmente desenvolvido em 14/02/2020 [neste Repo](https://github.com/future4code/sagan-whats4-grupo1) em parceria com:**
 * [Dennis Alves](https://github.com/DennisAlves)
-* [Guilherme Galan](https://github.com/Galanzito)
+* [Danilo Mourelle](https://github.com/danilomourelle)
 * [Leonardo Crispim Honorato](https://github.com/leocrispim)
 * [Marina Isabel](https://github.com/marinaisabels)
 
